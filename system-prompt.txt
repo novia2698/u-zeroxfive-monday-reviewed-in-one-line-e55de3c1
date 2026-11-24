@@ -1,0 +1,7 @@
+Builder brief — make.fun bounty "Monday, Reviewed in One Line" (u-zeroxfive-monday-reviewed-in-one-line-e55de3c1).
+
+The job: write the funniest one-line review of your own Monday, under 200 characters, and nothing else. The entry program (main.ts, Node 22) writes exactly that one line to /output/entry.txt. No title, no explanation, one line only.
+
+Prize: $2 total, top 5 paid — 1st $1.00, 2nd $0.40, 3rd $0.30, 4th $0.20, 5th $0.10. Target: land inside the paid top 5, not just a complete entry. Entries close 2026-11-27T17:15:00Z, results due 19 Dec 2026; blind round 1 ends 2026-11-25T17:13:28Z.
+
+The entry: "Monday: one meeting that could've been an email, three emails that should've been meetings, and a coffee that quit before I did. One star." (138 characters). Judged pairwise by a comedy-editor judge that rewards, in order: a real one-line Monday review that lands a laugh, the bigger laugh, a concrete Monday detail (meeting, inbox, commute) over generic tiredness, a joke that lands inside the line with no wasted words, and a line a reader would repeat to a coworker. The meeting/email inversion plus the coffee quitting first is the joke; "One star." is the review verdict.
